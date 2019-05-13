@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/chaitarang/static/css/main.d08f8136.chunk.css",
+    "main.js": "/chaitarang/static/js/main.1630f491.chunk.js",
+    "main.js.map": "/chaitarang/static/js/main.1630f491.chunk.js.map",
+    "runtime~main.js": "/chaitarang/static/js/runtime~main.5d0bdf71.js",
+    "runtime~main.js.map": "/chaitarang/static/js/runtime~main.5d0bdf71.js.map",
+    "static/js/2.692f68f2.chunk.js": "/chaitarang/static/js/2.692f68f2.chunk.js",
+    "static/js/2.692f68f2.chunk.js.map": "/chaitarang/static/js/2.692f68f2.chunk.js.map",
+    "index.html": "/chaitarang/index.html",
+    "precache-manifest.f162c34e9fc9121c57a6e264a8b53572.js": "/chaitarang/precache-manifest.f162c34e9fc9121c57a6e264a8b53572.js",
+    "service-worker.js": "/chaitarang/service-worker.js",
+    "static/css/main.d08f8136.chunk.css.map": "/chaitarang/static/css/main.d08f8136.chunk.css.map",
+    "static/media/banner.png": "/chaitarang/static/media/banner.c2e1ea45.png",
+    "static/media/chai-logo.png": "/chaitarang/static/media/chai-logo.a4cf495e.png",
+    "static/media/index.css": "/chaitarang/static/media/tea_leaf.fe590048.png"
+  }
+}
